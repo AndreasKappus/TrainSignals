@@ -1,0 +1,11 @@
+C:\Users\kappu\Desktop\C#_Stuff\TrainSignalsThreading\bin\Debug\netcoreapp3.1\TrainSignalsThreading.exe
+C:\Users\kappu\Desktop\C#_Stuff\TrainSignalsThreading\bin\Debug\netcoreapp3.1\TrainSignalsThreading.deps.json
+C:\Users\kappu\Desktop\C#_Stuff\TrainSignalsThreading\bin\Debug\netcoreapp3.1\TrainSignalsThreading.runtimeconfig.json
+C:\Users\kappu\Desktop\C#_Stuff\TrainSignalsThreading\bin\Debug\netcoreapp3.1\TrainSignalsThreading.runtimeconfig.dev.json
+C:\Users\kappu\Desktop\C#_Stuff\TrainSignalsThreading\bin\Debug\netcoreapp3.1\TrainSignalsThreading.dll
+C:\Users\kappu\Desktop\C#_Stuff\TrainSignalsThreading\bin\Debug\netcoreapp3.1\TrainSignalsThreading.pdb
+C:\Users\kappu\Desktop\C#_Stuff\TrainSignalsThreading\obj\Debug\netcoreapp3.1\TrainSignalsThreading.csprojAssemblyReference.cache
+C:\Users\kappu\Desktop\C#_Stuff\TrainSignalsThreading\obj\Debug\netcoreapp3.1\TrainSignalsThreading.AssemblyInfoInputs.cache
+C:\Users\kappu\Desktop\C#_Stuff\TrainSignalsThreading\obj\Debug\netcoreapp3.1\TrainSignalsThreading.AssemblyInfo.cs
+C:\Users\kappu\Desktop\C#_Stuff\TrainSignalsThreading\obj\Debug\netcoreapp3.1\TrainSignalsThreading.dll
+C:\Users\kappu\Desktop\C#_Stuff\TrainSignalsThreading\obj\Debug\netcoreapp3.1\TrainSignalsThreading.pdb
